@@ -1,0 +1,62 @@
+body {
+  background: hsl(222, 18%, 11%);
+  color: hsl(0, 0%, 100%);
+  text-align: center;
+  font-weight: 400;
+  font-family: "Arial";
+  font-size: 16px;
+}
+
+.wrapper {
+  background: hsl(237, 22%, 18%);
+  width: 1330px;
+  margin: 50px auto;
+  padding: 5px;
+  border-radius: 10px;
+}
+
+.AM-Logo {
+  width: 300px;
+  margin: 10px;
+  border-radius: 20px;
+  padding: 10px;
+}
+
+h1 {
+  font-family: "Fjalla One";
+  font-weight: 700;
+  margin: 10px;
+}
+
+.description-text {
+  text-align: center;
+  padding: 10px;
+}
+
+.content-text {
+  text-align: center;
+  padding: 10px;
+}
+
+.header {
+  font-weight: 400px;
+  padding: 10px;
+}
+
+.quote {
+  font-family: "Dancing Script";
+  font-weight: 700;
+  font-size: 25px;
+}
+
+a {
+  text-align: start;
+  display: block;
+  color: hsl(0, 0%, 100%);
+  background: 216, 33%, 17%;
+  font-weight: 600;
+  padding: 15px;
+  margin: 50px;
+  border-radius: 10px;
+  text-decoration: none;
+}
